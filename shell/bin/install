@@ -1,0 +1,4 @@
+#!/bin/bash
+source /opt/rh/devtoolset-2/enable
+g++ -v
+echo "sourcec11"

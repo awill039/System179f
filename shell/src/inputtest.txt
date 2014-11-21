@@ -1,0 +1,10 @@
+ls
+pstree
+shell
+shell
+exit
+pwd
+exit
+pwd
+ls
+exit
