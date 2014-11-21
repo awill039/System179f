@@ -231,7 +231,7 @@ public:
   static Thread* me();
 
   virtual ~Thread() { 
-    //pthread_cancel(pt);
+  	exit(0); 
   }
 
   Thread( string name = "", int priority = INT_MAX ) 
