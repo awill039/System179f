@@ -4,3 +4,5 @@
 *.config/geany
 *.swp
 *.swo
+*.txt
+shell

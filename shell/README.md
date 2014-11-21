@@ -1,13 +1,12 @@
-Shell
+ReBash Shell
 ===============
-Shell for CS179 Senior Design in Operating Systems. ReBash
-Shell emulates a bash shell. Incorporate with C++ 11 Threads, Device, and File Systems
+ReBash Shell is a shell for CS179 Senior Design in Operating Systems. ReBash
+Shell emulates a bash shell. Used to incorporate with C++ 11 Threads, Device,
+and File Systems
 
 Setup
 ---
-1. bin/install (requires gcc version 4.8.2, we found it best to add to .bashrc
-file)
-
+1. bin/install (requires gcc version 4.8.2)
 
 How to build
 ---
