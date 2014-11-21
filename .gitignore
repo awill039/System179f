@@ -1,8 +1,6 @@
-
 *.out
 *.viminfo
 *.config/geany
 *.swp
 *.swo
 *.txt
-shell
