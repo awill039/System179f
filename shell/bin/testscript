@@ -1,7 +1,0 @@
-#!/bin/bash
-cd ~/cs179F
-./bin/install
-echo "installed"
-cd src/
-make shell
-./shell < inputtest.txt
